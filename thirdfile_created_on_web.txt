@@ -1,1 +1,3 @@
-This file was created in the web. try to pull it. 
+This file was created in the web. try to pull it.
+
+Now I updated this from the terminal on my laptop.  
